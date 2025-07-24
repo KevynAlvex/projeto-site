@@ -35,3 +35,13 @@ h2{
 p{
     text-align: justify;
 }
+
+img.lado{
+    float: right;
+}
+
+a{
+    color: #2222FF;
+    font-family: 'Roboto', serif;
+    text-align: justify;
+}
